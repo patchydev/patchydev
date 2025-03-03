@@ -1,7 +1,7 @@
 # About Me
 My name is Isabelle, you can also call me Izzy or Isa.
 
-I'm a 17 transfem programmer.
+I'm a 17 year old transfem programmer.
 
 I'm currently working on Theo, a chess engine built in Rust.
 
