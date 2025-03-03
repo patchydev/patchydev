@@ -1,6 +1,8 @@
 # \U0001f4abAbout Me :
 My name is Isabelle, you can also call me Izzy or Isa.
+
 I'm a 17 transfem programmer.
+
 I'm currently working on Theo, a chess engine built in Rust.
 
 # \U0001f4bbTech Stack
