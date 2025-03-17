@@ -1,7 +1,11 @@
 # About Me
-My name is Isabelle, you can also call me Izzy or Isa.
+My name is Isabelle, you can call me Isa :).
 
-I'm a 17 year old transfem programmer.
+I'm a 17 year old transfem programmer, I'm also a NixOS/SwayWM user.
+
+You can add me on Discord @patchydev
+
+mi toki e toki pona
 
 I'm currently working on Theo, a chess engine built in Rust.
 
