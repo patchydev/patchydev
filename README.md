@@ -2,7 +2,7 @@
 
 My name is Isabelle, you can call me Isa :).
 
-I'm a 17 year old transfem programmer, I'm also a NixOS/SwayWM user.
+I'm a 17 year old transfem programmer, I'm also a Neovim/NixOS/SwayWM user.
 
 You can add me on Discord @patchydev
 
