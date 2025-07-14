@@ -1,6 +1,6 @@
 # About Me
 
-My name is Isabelle, you can call me Isa :).
+My name is Eleanor, you can call me El :).
 
 I'm a 17 year old transfem programmer, I'm also a Neovim/NixOS/SwayWM user.
 
