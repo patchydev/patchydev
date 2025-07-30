@@ -1,14 +1,6 @@
 # About Me
 
-My name is Eleanor, you can call me El :).
-
-I'm a 17 year old transfem programmer, I'm also a Neovim/NixOS/SwayWM user.
-
-You can add me on Discord @patchydev
-
-I speak English natively, and I'm learning Dutch.
-
-I'm currently working on Kiwi, a toy language written in Zig, as well as Theo, a chess engine built in Rust.
+Stub!
 
 # Tech Stack
 
