@@ -1,1 +1,1 @@
-Hey! Because of GitHub's ownership stealing code for training AI, I am moving to Codeberg and archiving all of my github repositories. You can find me at [https://codeberg.org/patchydev/fm](https://codeberg.org/patchydev/fm). 
+Hey! Because of GitHub's ownership stealing code for training AI, I am moving to Codeberg and archiving all of my github repositories. You can find me at [https://codeberg.org/patchydev/fm](https://codeberg.org/patchydev/). 
